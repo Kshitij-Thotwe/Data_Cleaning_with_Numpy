@@ -13,4 +13,5 @@ The two datasets required are uploaded within the repository named as loan-data.
 ## Task List:
 
 Import libraries and load data
+
 Clean and preprocess data
